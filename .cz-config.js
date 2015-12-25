@@ -16,6 +16,7 @@ module.exports = {
 
   scopes: [
     {name: 'package.json'},
-    {name: 'api'}
+    {name: 'api'},
+    {name: 'Readme.md'}
   ]
 };
