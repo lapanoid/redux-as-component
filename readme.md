@@ -10,3 +10,5 @@ Benefits of Redux App:
 - Devtools, and easy debug
 
 You can have best from both worlds, developing your component with redux and them wrapping it with this lib.
+
+
