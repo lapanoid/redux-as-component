@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lapanoid/redux-cropper.git"
+    "url": "https://github.com/lapanoid/redux-as-component.git"
   },
   "author": {
     "name": "Sergey Lapin",
