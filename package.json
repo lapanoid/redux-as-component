@@ -1,5 +1,5 @@
 {
-  "name": "redux-pass-props-decorator",
+  "name": "redux-as-component",
   "description": "My supreme module",
   "license": "MIT",
   "main": "lib/index.js",
