@@ -51,6 +51,8 @@
     "eslint-config-airbnb": "0.0.8",
     "eslint-friendly-formatter": "1.2.2",
     "eslint-plugin-react": "^3.8.0",
+    "react-transform-catch-errors": "^1.0.1",
+    "redbox-react": "^1.2.0",
     "rimraf": "^2.4.4",
     "semantic-release": "^4.3.5"
   },
