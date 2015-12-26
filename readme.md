@@ -68,3 +68,6 @@ export default (reduxToReact(
 - create
 - reduxCreateParams
 - ConnectedReduxComponent
+
+this creates component which could be used as like this:
+https://github.com/lapanoid/redux-cropper/blob/master/example/src/reactSimpleUsageApp.js#L75-L79
