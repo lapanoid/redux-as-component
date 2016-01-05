@@ -5,7 +5,7 @@ But I made app in the end not component which is much easier to use in other app
 
 To sum app this:
 
-# Benefits of React Component:
+Benefits of React Component:
 - Composable
 - Simple and Common Api (passing props, calling refs, ...)
 
