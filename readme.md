@@ -12,7 +12,7 @@ Benefits of Redux App:
 You can have best from both worlds, developing your component with redux and them wrapping it as react component with this lib.
 
 #[Example](https://github.com/lapanoid/redux-cropper/blob/master/src/containers/reactComponent.js)
-Lets examine this example of such approach:
+Lets examine the example of such approach:
 
 ```
 import React, { Component } from 'react';
@@ -24,17 +24,17 @@ import { rotate } from '../actions/rotate';
 import { getBlob } from '../actions/handlers';
 
 const callbackSelectorMap = {
-		onCropperReduxUpdate: ({
-			image, 
-			cropBox, 
-			myState, 
-			canvas
-		})=>({
-			image, 
-			cropBox, 
-			myState, 
-			canvas
-		})
+	onCropperReduxUpdate: ({
+		image, 
+		cropBox, 
+		myState, 
+		canvas
+	})=>({
+		image, 
+		cropBox, 
+		myState, 
+		canvas
+	})
 }
 
 const propsToAcMap = {
