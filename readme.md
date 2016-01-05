@@ -1,6 +1,6 @@
 # Rationale and some lyrics..
 
-This idea was born while I was making [redux-cropper](https://github.com/lapanoid/redux-cropper). Originally it is a port from jQuery cropper, but I found some issues with using it as is and decided to rewrite it to react. I needed some model to keep things understandable as cropper is not just some usual react app, it has **complex internall state** - so I used redux. 
+This idea was born while I was making [redux-cropper](https://github.com/lapanoid/redux-cropper). Originally it is a port from jQuery cropper, but I found some issues with using it as is and decided to rewrite it to react. I needed some model to keep things understandable as cropper is not just some usual react component, it has **complex** internall state - so I used redux. 
 But I made app in the end not component which is much easier to use in other apps. It is not obvious how to use app inside other app in general. 
 
 To sum app this:
