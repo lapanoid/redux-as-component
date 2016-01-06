@@ -80,7 +80,7 @@ https://github.com/lapanoid/redux-cropper/blob/master/example/src/reactSimpleUsa
 # How this works
 
 React component has *unidirectional props flow api* and redux has *dispatch actions api* we just need to mary them basically.
-To do that you need to define propsToAcMap which will map some react component property update to some Action Creator call.
+To do that you need to define propsToAcMap which will map some react component property updation to some Action Creator call.
 
 we also can propagate callbacks to react components, and this it tricky one - currently implementation is simple -
 pass callbackSelectorMap to map - so every redux state update will trigger passed callback passing result of selector.
